@@ -1,3 +1,4 @@
+#For desktop version
 # Telegram Imges Download from a channel
 #import telethon library
 # Run as pyhon script
